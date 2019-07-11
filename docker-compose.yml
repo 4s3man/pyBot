@@ -1,0 +1,13 @@
+version: '3'
+services:
+  ubuntu:
+    build: .
+    network_mode: host
+    environment:
+      - DISPLAY
+    volumes:
+      - $HOME/.Xauthority:/root/.Xauthority
+      - /dev/shm:/dev/shm
+      - ./scenarios/:/home/
+      - ./bin/:/bin/
+    tty: true
