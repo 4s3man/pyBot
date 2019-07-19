@@ -1,36 +1,36 @@
-1563537077942	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rKXy2g3Tcktw"
-Gtk-Message: 11:51:17.990: Failed to load module "canberra-gtk-module"
-Gtk-Message: 11:51:17.990: Failed to load module "canberra-gtk-module"
-1563537078275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1563537078275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1563537078275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1563537078275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-Gtk-Message: 11:51:18.717: Failed to load module "canberra-gtk-module"
-Gtk-Message: 11:51:18.718: Failed to load module "canberra-gtk-module"
-Gtk-Message: 11:51:18.798: Failed to load module "canberra-gtk-module"
-Gtk-Message: 11:51:18.799: Failed to load module "canberra-gtk-module"
+1563537349656	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7wWK43GOpCBU"
+Gtk-Message: 11:55:49.705: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:55:49.705: Failed to load module "canberra-gtk-module"
+1563537349997	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563537349997	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1563537349997	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563537349997	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Gtk-Message: 11:55:50.422: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:55:50.423: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:55:50.512: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:55:50.513: Failed to load module "canberra-gtk-module"
 
-(firefox:288): LIBDBUSMENU-GLIB-WARNING **: 11:51:18.822: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
-1563537079421	Marionette	INFO	Listening on port 34499
-1563537079447	Marionette	WARN	TLS certificate errors will be ignored for this session
-Gtk-Message: 11:51:19.749: Failed to load module "canberra-gtk-module"
-Gtk-Message: 11:51:19.750: Failed to load module "canberra-gtk-module"
-1563537082761	Marionette	INFO	Stopped listening on port 34499
-1563537088873	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.iZ7fZgV2aFus"
-Gtk-Message: 11:51:28.920: Failed to load module "canberra-gtk-module"
-Gtk-Message: 11:51:28.921: Failed to load module "canberra-gtk-module"
-1563537089203	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1563537089203	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1563537089204	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1563537089204	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-Gtk-Message: 11:51:29.645: Failed to load module "canberra-gtk-module"
-Gtk-Message: 11:51:29.646: Failed to load module "canberra-gtk-module"
-Gtk-Message: 11:51:29.732: Failed to load module "canberra-gtk-module"
-Gtk-Message: 11:51:29.733: Failed to load module "canberra-gtk-module"
+(firefox:702): LIBDBUSMENU-GLIB-WARNING **: 11:55:50.537: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1563537351208	Marionette	INFO	Listening on port 45549
+1563537351262	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 11:55:51.449: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:55:51.450: Failed to load module "canberra-gtk-module"
+1563537357596	Marionette	INFO	Stopped listening on port 45549
+1563537756831	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jM2QYApKuSSC"
+Gtk-Message: 12:02:36.879: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:02:36.880: Failed to load module "canberra-gtk-module"
+1563537757163	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563537757163	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1563537757164	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563537757164	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Gtk-Message: 12:02:37.649: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:02:37.650: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:02:37.733: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:02:37.733: Failed to load module "canberra-gtk-module"
 
-(firefox:482): LIBDBUSMENU-GLIB-WARNING **: 11:51:29.757: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
-1563537090289	Marionette	INFO	Listening on port 42981
-1563537090382	Marionette	WARN	TLS certificate errors will be ignored for this session
-Gtk-Message: 11:51:30.704: Failed to load module "canberra-gtk-module"
-Gtk-Message: 11:51:30.705: Failed to load module "canberra-gtk-module"
-1563537093634	Marionette	INFO	Stopped listening on port 42981
+(firefox:901): LIBDBUSMENU-GLIB-WARNING **: 12:02:37.756: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1563537758272	Marionette	INFO	Listening on port 37581
+1563537758336	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 12:02:38.701: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:02:38.702: Failed to load module "canberra-gtk-module"
+1563537768041	Marionette	INFO	Stopped listening on port 37581
