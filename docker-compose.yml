@@ -9,5 +9,5 @@ services:
       - $HOME/.Xauthority:/root/.Xauthority
       - /dev/shm:/dev/shm
       - ./scenarios/:/home/
-      - ./bin/:/bin/
+      - ./bin/:/usr/local/bin/
     tty: true
